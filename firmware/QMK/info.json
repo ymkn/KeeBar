@@ -20,8 +20,8 @@
     "url": "https://github.com/ymkn/KeeBar",
     "usb": {
         "device_version": "1.0.0",
-        "pid": "0x1209",
-        "vid": "0x2AD6"
+        "pid": "0x2AF5",
+        "vid": "0x1209"
     },
     "layouts": {
         "LAYOUT_all": {
