@@ -15,6 +15,8 @@ Flashing example for this keyboard:
 
 This keyboard supports [Vial](https://get.vial.today/) configurator.
 
+OSのハードウェアキーボードレイアウト設定が日本語キーボード「（106/109キー）」に設定されている場合は、[default_layout_jp.vil](default_layout_jp.vil)ファイルをロードするといい感じになります。
+
 ## Bootloader
 
 Enter the bootloader in 2 ways:

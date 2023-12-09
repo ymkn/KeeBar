@@ -1,14 +1,16 @@
 # KeeBar
 
-A extended 40% sized keyboard
+A extended 40% mechanical keyboard PCB, plate and case.
 
 ![KeeBar real image](img/keebar-real.jpg)
 
 ## Default Layout
 
-Powered by RP2040 with [KMK Firmware](http://kmkfw.io/). Fully customizable.
-
 ![KeeBar layouts](img/keebar-layout.png)
+
+You can also customize the layout using [Vial](https://get.vial.today/).
+
+OSのハードウェアキーボードレイアウト設定が日本語キーボード「（106/109キー）」に設定されている場合は、[default_layout_jp.vil](firmware/QMK/default_layout_jp.vil)ファイルをロードするといい感じになります。
 
 ## License
 
