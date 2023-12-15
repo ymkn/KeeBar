@@ -2,11 +2,11 @@
 
 A extended 40% mechanical keyboard PCB, plate and case.
 
-![KeeBar real image](img/keebar-real.jpg)
+![KeeBar real image](image/keebar-real.jpg)
 
 ## Default Layout
 
-![KeeBar layouts](img/keebar-layout.png)
+![KeeBar layouts](image/keebar-layout.png)
 
 You can also customize the layout using [Vial](https://get.vial.today/).
 
