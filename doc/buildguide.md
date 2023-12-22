@@ -73,11 +73,7 @@ KeeBarは本体となる基板とキースイッチ固定用のトッププレ�
 
 下記からファームウェアをダウンロードしてください。
 
-https://github.com/ymkn/KeeBar/blob/main/firmware/QMK/ymkn_KeeBar_vial.uf2
-
-画面右上の方に下矢印のダウンロードボタンがあるので、そこを押すことでダウンロードできます。
-
-![KeeBarファームウェアダウンロード](../image/firmwaredownload.png)
+https://github.com/ymkn/KeeBar/releases/download/v1.0/ymkn_keebar_vial.uf2
 
 ## 3.2 RP2040-Zeroの動作確認とファームウェアの書き込み
 
@@ -162,7 +158,7 @@ RP2040-Zeroも同様に基板の裏面に取り付けます。基板左上のス
 
 OSのキーボード設定が日本語の時にいい感じになるキーマップファイルを下記に置いておきますのでご活用ください。
 
-https://github.com/ymkn/KeeBar/blob/main/firmware/QMK/default_layout_jp.vil
+https://github.com/ymkn/KeeBar/releases/download/v1.0/default_layout_jp.vil
 
 ### 5.3 漢字キー（日本語入力On/Off用のキー）について
 
