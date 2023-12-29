@@ -1,6 +1,6 @@
 # KeeBar
 
-A extended 40% mechanical keyboard PCB, plate and case.
+A 40%-sized, horizontally elongated with centerized numkeys mechanical keyboard.
 
 ![KeeBar real image](image/keebar-real.jpg)
 
@@ -15,3 +15,5 @@ OSのハードウェアキーボードレイアウト設定が日本語キーボ
 ## License
 
 This project is licensed under the MIT License, see the [LICENSE file](LICENSE) for details.
+
+However, this does not apply to logo data (image files, KiCAD footprints, etc.) included in the resources of this project. Please contact us for secondary use.
