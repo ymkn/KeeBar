@@ -1,3 +1,6 @@
 [submodule "KiCad/lib/external/kleeb"]
 	path = KiCad/lib/external/kleeb
 	url = https://github.com/crides/kleeb.git
+[submodule "KiCad/lib/external/Salicylic-acid3"]
+	path = KiCad/lib/external/Salicylic-acid3
+	url = https://github.com/Salicylic-acid3/KiCAD_FootPrint.git
