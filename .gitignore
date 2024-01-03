@@ -13,3 +13,12 @@ _autosave-*
 *-save.pro
 *-save.kicad_pcb
 fp-info-cache
+
+# FreeCAD
+*.pyc
+*.fcstd1
+*.FCStd1
+*.fcstd2
+*.FCStd2
+*.FCBak
+Private
