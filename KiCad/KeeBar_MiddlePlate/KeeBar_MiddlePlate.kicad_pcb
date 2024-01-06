@@ -110,14 +110,14 @@
     (attr smd)
     (fp_text reference "SW55" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 8ccc862d-855d-4026-a450-91542be3f7db)
+      (tstamp b231d6aa-13d1-4c46-bd2e-f009d48d3d66)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp fd24cd03-8317-4ad2-bd52-6d5229972976)
+      (tstamp 905fc265-a235-4700-8fa3-9488433a5ec7)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp cf1bdd45-665f-49d4-8e5c-c95fb77895a1))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 2cc51262-b5ac-4a86-b7f9-e981296efd86))
   )
 
   (footprint "foam:foam-cutout-hole-for-m2-hex" (layer "F.Cu")
@@ -126,14 +126,14 @@
     (attr smd)
     (fp_text reference "M2_4" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 89dfa0d2-2c36-4cc3-b324-35a646d628bc)
+      (tstamp ecae56d2-3262-467a-8fd4-6f0155cc9b6f)
     )
     (fp_text value "Val**" (at 0 1 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 7fc33b76-c981-42ef-90b1-2906b13925d1)
+      (tstamp c15ee5df-905c-4aec-a17c-b9822a0a90b7)
     )
     (fp_circle (center 0 0) (end 2.1 0)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 8d9522fd-09e1-4b2b-8c0b-154def9ceb9a))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 8544a7aa-0675-423f-b2c7-4c8d7077110a))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -148,14 +148,14 @@
     (attr smd)
     (fp_text reference "SW30" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp ca3f4cd1-da5f-4bce-9e8d-4c1fe7f5d5c7)
+      (tstamp 06d76fe3-c7d6-44c5-af96-5001de9123f6)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp e6fe161c-8460-4317-829a-fccba7688025)
+      (tstamp 4f3f4ffb-ed9e-4423-859f-c0fcfdd25aa6)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 466227e7-db6b-4502-9258-e8221b9d36ce))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp fd8550bc-b417-4ac1-bbbc-f3883b66214e))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -170,14 +170,14 @@
     (attr smd)
     (fp_text reference "SW5" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp ce5f846e-2fdb-4cef-ada9-1bf55b0f7e2e)
+      (tstamp ef5a2705-4922-4401-8f22-38e2fc3678ef)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 65a45801-09ff-42ff-a5a1-76c27f5fc3a5)
+      (tstamp 1af28c5f-f40e-4317-8b6a-bf6b830109ef)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 07dbac06-f46a-4577-9b6a-c614c63dfcec))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp f2504042-f33c-4613-a4a3-5e6789443e90))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -192,14 +192,14 @@
     (attr smd)
     (fp_text reference "SW28" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 58d910dd-3bb3-4e28-980b-df4298a5d3a3)
+      (tstamp 17414ee2-c469-4180-bb05-257a87f5e7bf)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 7cb78050-cff5-42a9-b2da-1a80b2b65535)
+      (tstamp bc982315-485c-468e-80ad-5093962111bc)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 260ef2f6-d7f4-412c-95b5-9e20c48ae2c6))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp a00a5814-e005-4eb5-9b97-7dc24bceb496))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -214,14 +214,14 @@
     (attr smd)
     (fp_text reference "SW53-2" (at 0 -0.475 180 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp a3676c89-97a2-4637-bee6-8aa8bf6badce)
+      (tstamp 52fc252d-72b0-459c-84b8-487ecfa446ff)
     )
     (fp_text value "SW_Push" (at 0 1.025 180 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp a4188406-b41c-4966-9732-621921f5daa1)
+      (tstamp 5440af56-dbbd-4e8d-940c-42a355faffcf)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 61a5b79f-0688-4c5f-be06-2c2ac8dcf398))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 2456a2c9-d667-4c61-a7e1-3c0493a13cb2))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -236,14 +236,14 @@
     (attr smd)
     (fp_text reference "SW46" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 020b0c16-f572-406f-8239-50df0913351a)
+      (tstamp 383d58bd-80b4-4c40-b91b-01f48f213758)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 060c7e20-fdc3-4729-8112-8dae2d32f00d)
+      (tstamp 3b512a0d-2787-4fcb-a6a0-962f553461c2)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 2b73835b-631a-4087-9f7d-2f3527f29482))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp f97d8d33-a26d-4063-b27f-46e4ad00329f))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -258,14 +258,14 @@
     (attr smd)
     (fp_text reference "SW16" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp cfac0eb5-46e7-4ec3-856d-91f173973486)
+      (tstamp 57e293d1-fbfb-435c-b289-3528d5138a7c)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp e15ca050-28f9-453d-8503-c1341ca69e65)
+      (tstamp 2691303d-9a57-4507-a137-5ac366d6e438)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 972ac052-0b38-455d-879c-5ffc5a628421))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp e943003e-0298-4704-abdc-67daca9ac4af))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -280,14 +280,14 @@
     (attr smd)
     (fp_text reference "SW25" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp ad88ed46-e653-43dc-9c50-52a7732b16f6)
+      (tstamp 32352245-3f1b-498b-a59e-90653f8feafa)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp a31559ce-fcf8-44d3-9cfc-9bf4e9f11c2b)
+      (tstamp 58031dff-c262-4619-9048-8df5b56395aa)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 15530785-1022-40eb-a9d2-012c7b26899f))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 12e9d9f3-386f-4bf7-b4de-2faa64fca694))
   )
 
   (footprint "foam:foam-cutout-hole-for-m2-hex" (layer "F.Cu")
@@ -296,14 +296,14 @@
     (attr smd)
     (fp_text reference "M2_2" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp f73e95ba-eac9-49a8-9f16-dc8797691589)
+      (tstamp 241979b2-4e6c-4246-9b1d-23f1394d4793)
     )
     (fp_text value "Val**" (at 0 1 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 3d23303e-dff3-4b6e-9043-990263d112fd)
+      (tstamp ebfbb01a-b166-402b-9b94-46e036815ade)
     )
     (fp_circle (center 0 0) (end 2.1 0)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp a12135b1-2b94-4ec3-a6b4-e72eeb945a5c))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp c12ac135-1cad-4690-a2b5-6d1e767e7d83))
   )
 
   (footprint "foam:foam-cutout-hole-for-m2-hex" (layer "F.Cu")
@@ -312,14 +312,14 @@
     (attr smd)
     (fp_text reference "M2_8" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 2c2b3f89-1545-402b-8153-2bdb9f48810d)
+      (tstamp 0803ae45-f78a-4c0e-8f91-961692fab1d8)
     )
     (fp_text value "Val**" (at 0 1 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp ab4bc501-9a79-42f1-9129-723a522a0dcd)
+      (tstamp d37f044a-7502-4680-9b7b-ba21af91f2ef)
     )
     (fp_circle (center 0 0) (end 2.1 0)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 9938e58c-815c-4e65-839a-a05b539d1ae6))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 2effb7bd-2097-448c-9240-f11cf3e2f658))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -334,14 +334,14 @@
     (attr smd)
     (fp_text reference "SW37" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 99ded6c4-7e68-4933-b5dd-1137f4681137)
+      (tstamp 2b2c9b6c-f974-4b1f-a96c-278602572bf3)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 26dd04d0-ccc6-4d7c-a7f0-869b83b74fd4)
+      (tstamp 8cf73654-a84b-48eb-af75-1ab2ad5fff9e)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 9832852a-7c2a-4789-b196-8ecf16e645f3))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp fcc5a69a-1b5e-4f11-9243-bdcfd02dbed6))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -356,14 +356,40 @@
     (attr smd)
     (fp_text reference "SW53" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp bf2240ee-3713-4998-9a52-a1338dde6c5d)
+      (tstamp a8dd1acf-fc01-4708-b9cc-03a67a946ed8)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 7337b190-ee04-40e5-a460-e0bf659b5a2a)
+      (tstamp f6eadeb2-4d7d-496f-85b2-80eccc8f3a27)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp eb365383-2584-480b-8df8-8e6624257c71))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 4dbd84f5-dbb0-449d-bb6b-ca5f37d44774))
+  )
+
+  (footprint "foam:foam-cutout-mx-stab-2u" (layer "F.Cu")
+    (tstamp 1685249a-123d-48b9-9414-509f2f59e5de)
+    (at 345.28125 71.4375)
+    (attr smd)
+    (fp_text reference "" (at 0.012 -0.485 unlocked) (layer "F.SilkS") hide
+        (effects (font (size 1 1) (thickness 0.1)))
+      (tstamp 2cbee7ff-a04f-40be-9245-02420f35fee6)
+    )
+    (fp_text value "foam-cutout-mx-stab-2u" (at 0.012 1.015 unlocked) (layer "F.Fab") hide
+        (effects (font (size 1 1) (thickness 0.15)))
+      (tstamp 5b0927ff-ad2e-4b10-a6eb-b9485e931d0e)
+    )
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+        (effects (font (size 1 1) (thickness 0.15)))
+      (tstamp da8f8c86-ba81-4471-8a07-b1c112568b9e)
+    )
+    (fp_circle (center -11.938 -6.985) (end -10.388 -6.985)
+      (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 7c792e66-edc1-4ea6-beb1-5637970b7306))
+    (fp_circle (center -11.938 8.225) (end -9.938 8.225)
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp c0dd176d-b5a0-4694-b5ce-d0058da2b4c9))
+    (fp_circle (center 11.938 -6.985) (end 13.488 -6.985)
+      (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp de44340e-eac8-4d3f-97c3-6ccf170b67c5))
+    (fp_circle (center 11.938 8.225) (end 13.938 8.225)
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 61554297-1afe-4f3a-93e3-1a21461d09b8))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -378,14 +404,14 @@
     (attr smd)
     (fp_text reference "SW14" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 4345e9c0-f05a-4bf3-b993-4a356ba8a058)
+      (tstamp aa2d27c1-8ca2-415a-8edc-17f344e5682d)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp d9a31e04-2d74-4e33-ab78-516284486b98)
+      (tstamp 7c374891-d061-497e-8d13-700212b70ba3)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp ba6b5709-fcd6-4311-9382-2aafd1c9c790))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 1ed2de42-83b3-4389-b991-1f3863e5cb25))
   )
 
   (footprint "foam:foam-cutout-hole-for-m2-hex" (layer "F.Cu")
@@ -394,14 +420,14 @@
     (attr smd)
     (fp_text reference "M2_1" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 90c599f1-63d5-45d1-8b3b-e269d4a7ef4a)
+      (tstamp 3f2f74d0-ca90-4efe-b6c9-3b7d4b47d051)
     )
     (fp_text value "Val**" (at 0 1 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp afb7ae76-e66f-4de9-808e-24b7723d4044)
+      (tstamp ad250a6d-9039-411d-b0a1-5888835f052f)
     )
     (fp_circle (center 0 0) (end 2.1 0)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 230aa654-5ec6-4389-9f51-7d49fefa9acf))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 28a5e148-9a51-4d91-9d01-ebf55aa9cbe2))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -416,14 +442,14 @@
     (attr smd)
     (fp_text reference "SW59" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 253e78bf-7974-4266-9c99-38914088199f)
+      (tstamp e090eeba-3b1e-42b2-a5b5-a1122b58d526)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 0d09a444-b52f-41f0-a668-70a3c4953744)
+      (tstamp 10345d78-5f72-4ec4-9cf2-3df0e6899938)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 917fdaea-13e9-4c1c-b3f6-8ca70218ed29))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp ff344c3c-85e4-4015-89a7-599fe97a27b4))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -438,14 +464,14 @@
     (attr smd)
     (fp_text reference "SW40" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp c642cace-102d-4b9a-9876-0dfd9c4eee1a)
+      (tstamp 42e64cf0-fdc7-4cab-97fe-a8b133f039ef)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 572f9137-3db0-49bd-95f8-9f4becb61ae3)
+      (tstamp 10f20524-afe0-4244-bece-c084dbe4c3e7)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 0e6b0e90-ef54-45d3-9f4e-c497f47e85b7))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 744e9661-9cc6-47c0-bfae-c0d0a4b7f414))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -460,14 +486,14 @@
     (attr smd)
     (fp_text reference "SW56" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 6dd02460-a4a9-40aa-8146-223addb83aad)
+      (tstamp 42940b4a-4af2-4a7d-8956-078ae46d0637)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp e7aabf4d-9acb-42c4-b6e9-5bcfcd88b17f)
+      (tstamp f292e0de-d28a-4497-bae7-6f1358c36e11)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp defef0ad-5ed5-4b91-bec8-874f46721528))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 99f5bab4-5668-4af0-b1fa-40663b5d9fff))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -482,14 +508,14 @@
     (attr smd)
     (fp_text reference "SW10" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 8d81e729-dcfb-4f2c-8f75-d2a3ad005afa)
+      (tstamp c68c3b86-8158-4ee2-a7b5-a564315fe73a)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp b3007e38-7ef3-434c-847e-a4acadcbe4d2)
+      (tstamp 05073ab9-8a83-4ce1-ad62-976c03a01613)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 5875ed8a-834b-4181-ac3b-cb233b82c0db))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp f3c556b7-52d6-4af7-8bea-1d116de874e2))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -504,14 +530,14 @@
     (attr smd)
     (fp_text reference "SW20" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 289b7bf6-6a86-48e7-9529-879a3700e9da)
+      (tstamp 16ffc0c3-12b6-48e6-a2c0-3ec5ca02df8a)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 5df97db2-3712-4314-8b4d-d0c53af3c3d6)
+      (tstamp b5fcfe2f-5015-421f-a2ad-5844f7ecb2a1)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp fbcfd0cd-6bf2-4a71-9a3a-1104eb434b8d))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp c65b7206-d7e2-4984-a22a-8c78884c029e))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -526,14 +552,36 @@
     (attr smd)
     (fp_text reference "SW29" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 6ef205f9-8cf2-44ee-8a15-94aa112c8819)
+      (tstamp 2ce06439-1fdb-48d2-9908-c8b76e485e19)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 90c19c89-8d72-4c0f-b781-68a370bc8aec)
+      (tstamp e23d467d-2b35-4553-942b-b20143f8b9b4)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 88cd751f-f1b9-4d62-98bb-39f98952fe87))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 49b86872-db81-4ad7-9011-7aa1622c84a9))
+  )
+
+  (footprint "foam:foam-cutout-mx-stab-2u" (layer "F.Cu")
+    (tstamp 3c8101b1-ea8d-44a7-a548-55e4a2aef13c)
+    (at 235.74375 114.3 180)
+    (attr smd)
+    (fp_text reference "" (at 0.012 -0.485 180 unlocked) (layer "F.SilkS") hide
+        (effects (font (size 1 1) (thickness 0.1)))
+      (tstamp 6c560b11-4837-41b2-a37b-ca3c9032b939)
+    )
+    (fp_text value "foam-cutout-mx-stab-2u" (at 0.012 1.015 180 unlocked) (layer "F.Fab") hide
+        (effects (font (size 1 1) (thickness 0.15)))
+      (tstamp 86373240-68c1-4d5c-813b-c71dc1173cf4)
+    )
+    (fp_circle (center -11.938 -6.985) (end -10.388 -6.985)
+      (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 530a2140-985c-4735-8381-bd0d04e074b9))
+    (fp_circle (center -11.938 8.225) (end -9.938 8.225)
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 17349520-6c29-484c-a67a-dc4660b3c289))
+    (fp_circle (center 11.938 -6.985) (end 13.488 -6.985)
+      (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 9b220bd9-927e-4fa0-89b5-b40dd00bf5a4))
+    (fp_circle (center 11.938 8.225) (end 13.938 8.225)
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp f25dd914-b845-4339-9330-1a4766533175))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -548,14 +596,14 @@
     (attr smd)
     (fp_text reference "SW34" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp afec3d8c-18b7-46d7-8897-824063ae8656)
+      (tstamp 67ef1ba4-4d85-406a-8bbb-0f22db8d8c88)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 75954860-4ddf-4f98-a44b-4ff1954fcd07)
+      (tstamp ce491287-ca9d-4ef6-8d5d-06ace9076701)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp cefad0e9-7d21-4fb7-a12b-94dd4d920ea2))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 821713dc-d43d-4e9d-98e6-421c20780fe4))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -570,14 +618,14 @@
     (attr smd)
     (fp_text reference "SW32" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp d7c4d8dc-70c9-4550-a050-48d3172acb52)
+      (tstamp 3b64671d-d898-4dcb-a217-017baaf3de3b)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 4e557ea6-1299-499f-8d54-cc182e4f2438)
+      (tstamp e01883bd-e6cc-4f7e-840b-501e3fc9d7a1)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 66afd5c7-849c-4717-941a-8dfb33c071a5))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 6fa5c826-721f-4bf3-89f1-ae2f3fcaf17f))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -592,14 +640,14 @@
     (attr smd)
     (fp_text reference "SW1" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 5f9ad723-5db7-4fdc-8cc3-b4cece9af415)
+      (tstamp a8e43f24-0551-4744-b533-47e3895ac889)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 4b8525a8-1666-4488-9c5e-448fc4992e96)
+      (tstamp 31194b96-c074-43ed-982b-1c9d29c564c9)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp fbea1d8a-7b89-493a-a640-f00848382169))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp ef9650ab-db5c-4cd6-9d61-db7c481fa71a))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -614,14 +662,40 @@
     (attr smd)
     (fp_text reference "SW44" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 5ecb3dea-9eb2-4939-95a8-9caf214e5b0f)
+      (tstamp b960d6b7-5bf7-4551-80f6-c3b19363a916)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp a2f185e2-3948-4528-8085-5e4c6d12fd55)
+      (tstamp bb5614fe-97c3-432b-bcf5-0b6d1b6a191d)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp fefa7232-c569-4a13-8849-2f1f17939de3))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 7cac51f1-28eb-40e2-9d49-6fd0ac00aab1))
+  )
+
+  (footprint "foam:foam-cutout-mx-stab-6.25u" (layer "F.Cu")
+    (tstamp 50eb6079-03a3-4aa1-9d16-b55c6ba32f5b)
+    (at 190.5 114.3 180)
+    (attr smd)
+    (fp_text reference "" (at 0.012 -0.485 180 unlocked) (layer "F.SilkS") hide
+        (effects (font (size 1 1) (thickness 0.1)))
+      (tstamp ddedee87-c34e-481d-86f1-e71d4d593608)
+    )
+    (fp_text value "foam-cutout-mx-stab-6.25u" (at 0.012 1.015 180 unlocked) (layer "F.Fab") hide
+        (effects (font (size 1 1) (thickness 0.15)))
+      (tstamp d3d4253d-5999-4cae-a416-cf63dbd69c1f)
+    )
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+        (effects (font (size 1 1) (thickness 0.15)))
+      (tstamp 8b2aabc5-179c-4663-8477-77612945fd1a)
+    )
+    (fp_circle (center -50 -6.985) (end -48.45 -6.985)
+      (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 45d456b0-8243-4409-ac69-2062dc85f6de))
+    (fp_circle (center -50 8.225) (end -48 8.225)
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp b1b37ec6-1590-4963-a580-4c41a53d171c))
+    (fp_circle (center 50 -6.985) (end 51.55 -6.985)
+      (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp edd2d3fe-3a67-470b-a44e-860e10703dd9))
+    (fp_circle (center 50 8.225) (end 52 8.225)
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 1951d3c0-9ec0-4d1f-80ba-a6bd427b39e6))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -636,14 +710,14 @@
     (attr smd)
     (fp_text reference "SW39" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 8c8e398f-fe5b-4334-89c3-c6da6edea013)
+      (tstamp 5b77dfc1-76f1-4b45-902d-de7bdadbdf21)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 02340abf-85b8-46ef-ba29-fd4d61ba023e)
+      (tstamp e765b4f1-85bc-45cd-94f9-77a4a0fdf705)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp d877be41-0159-48a1-ab05-46e6a2dc4c49))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 0b49f7ad-13d5-4223-a278-015a66862b01))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -658,14 +732,14 @@
     (attr smd)
     (fp_text reference "SW21" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 529f7bbb-48f8-4077-807a-2bb1f291b52f)
+      (tstamp d54ea6e9-a8dc-4778-8bc4-e42a503f58bb)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 12cc22ab-8f88-4986-9fc2-e461cbaf6677)
+      (tstamp 3854050d-a037-4ae1-8ed3-82529060741f)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp bd532f7e-3e13-4025-97d8-6b9f7d7488a8))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 5204cc5e-ee2e-4f04-8382-13f5e3246154))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -680,14 +754,40 @@
     (attr smd)
     (fp_text reference "SW58" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp bc8e5c7b-3ff4-4025-b412-854bc91cffad)
+      (tstamp 94a2682d-136e-4843-b27b-b87d1c02cf0f)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp ac56d82c-59a5-43ed-9304-909390fa516a)
+      (tstamp 8ff3c0d4-d805-4cf0-be6c-c58836135211)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 91e7cd61-c648-4555-842b-8a740065fbb3))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 8becdb95-0a4b-44a5-95ef-251222c8c414))
+  )
+
+  (footprint "foam:foam-cutout-mx-stab-7u" (layer "F.Cu")
+    (tstamp 60207490-043f-4773-a496-7c30c386446a)
+    (at 190.5 114.3 180)
+    (attr smd)
+    (fp_text reference "" (at 0.012 -0.485 180 unlocked) (layer "F.SilkS") hide
+        (effects (font (size 1 1) (thickness 0.1)))
+      (tstamp 334e8efd-c524-4066-b1f6-bfc3ea00a07b)
+    )
+    (fp_text value "foam-cutout-mx-stab-7u" (at 0.012 1.015 180 unlocked) (layer "F.Fab") hide
+        (effects (font (size 1 1) (thickness 0.15)))
+      (tstamp d8aa321c-962c-470c-8c1c-9e4990cff373)
+    )
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+        (effects (font (size 1 1) (thickness 0.15)))
+      (tstamp bf11ac8b-c427-4a9f-ba7f-ad617db92eb7)
+    )
+    (fp_circle (center -57.15 -6.985) (end -55.6 -6.985)
+      (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 63ab46ae-f6e9-4291-a5b3-cadc4ca282ca))
+    (fp_circle (center -57.15 8.225) (end -55.15 8.225)
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp da42f5ad-542d-4398-95f8-a49b700c98f6))
+    (fp_circle (center 57.15 -6.985) (end 58.7 -6.985)
+      (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 87308d39-c079-4293-be45-87692b4d06c4))
+    (fp_circle (center 57.15 8.225) (end 59.15 8.225)
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 4dd3a775-8da1-46e3-9096-ac7d42233fe9))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -702,14 +802,14 @@
     (attr smd)
     (fp_text reference "SW15" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp bf8e959e-fe5a-40db-80a2-9296815cb757)
+      (tstamp fd5ca606-0176-49e9-84c2-01f1ee61416f)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 6ec0fa4d-255c-4885-91d0-50cff43636e2)
+      (tstamp 37401b89-65c0-4f88-be35-9d820c10e550)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp a36b0fc6-a9b5-49f4-b81f-d669e43b59bf))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 96042e9e-dd1d-4163-a516-a801bbd1ae85))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -724,14 +824,14 @@
     (attr smd)
     (fp_text reference "SW19" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp b2577f81-74bf-4c37-9341-48b0abef978c)
+      (tstamp bcaf14ad-b107-4a88-81a4-a01df22a8bc0)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp eae44ae8-6192-434a-97bf-93945454bbbb)
+      (tstamp 632b90cd-ada0-40b3-ae30-d506279e87be)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp ac80b0d8-4c19-40bc-b4f4-dfbb163ec45d))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 7a39fac7-ddea-4789-8560-357f8523ca3d))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -746,14 +846,36 @@
     (attr smd)
     (fp_text reference "SW49" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp c1a1488a-549f-4f1a-8a62-eab494827335)
+      (tstamp c46fff28-6608-425f-9e60-a386b2c7c658)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp d41e1eb2-ff1a-4d9a-9cf3-702d1c8c9031)
+      (tstamp 7e7a7523-c5c0-441c-886c-e8fc61d500e9)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp a9677e06-c939-4632-9443-7cf99873d3c1))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp db76d192-99b9-4c61-8fec-11283eb1cdb7))
+  )
+
+  (footprint "foam:foam-cutout-mx-stab-2u" (layer "F.Cu")
+    (tstamp 6653eb16-6b6c-4e33-9e0d-57100d89d3c0)
+    (at 42.8625 90.4875)
+    (attr smd)
+    (fp_text reference "" (at 0.012 -0.485 unlocked) (layer "F.SilkS") hide
+        (effects (font (size 1 1) (thickness 0.1)))
+      (tstamp 8c01e563-7b72-4887-8110-6e735b0ba447)
+    )
+    (fp_text value "foam-cutout-mx-stab-2u" (at 0.012 1.015 unlocked) (layer "F.Fab") hide
+        (effects (font (size 1 1) (thickness 0.15)))
+      (tstamp 81982f8c-731a-4cff-9671-8ea64ed44feb)
+    )
+    (fp_circle (center -11.938 -6.985) (end -10.388 -6.985)
+      (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 80987c05-08bf-4152-9946-512f8b4fdef4))
+    (fp_circle (center -11.938 8.225) (end -9.938 8.225)
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 6952dc53-0be8-47be-b9f2-cb51cb6e86fe))
+    (fp_circle (center 11.938 -6.985) (end 13.488 -6.985)
+      (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp ede4d0f8-5bf4-407d-9a9c-78ef3e8caee2))
+    (fp_circle (center 11.938 8.225) (end 13.938 8.225)
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp fcdd71c4-e461-4db9-9ab5-7c642c4fd1cd))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -768,14 +890,14 @@
     (attr smd)
     (fp_text reference "SW33" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 3d5f0dab-f074-4ea9-8ad8-ffa03b480931)
+      (tstamp fef88713-ffd8-45c5-82e6-25521b8eb3d0)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 895076d7-76de-4a27-8e8d-a7f93d0dae2b)
+      (tstamp 95459198-a7d1-4147-b2b6-2a450f2d9948)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp db7d0376-91b3-4070-a02c-f25b28ba83c0))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 8adfdf0b-d150-4506-a058-ca66d7fcde96))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -790,14 +912,14 @@
     (attr smd)
     (fp_text reference "SW15-2" (at 0 -0.475 180 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 03260c5a-4254-4a04-b234-bfeeffed5ff6)
+      (tstamp c2b99c8d-ea83-4a97-9271-9964adcb755f)
     )
     (fp_text value "SW_Push" (at 0 1.025 180 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 0b3417ce-a759-4512-bdef-c9ab436d022d)
+      (tstamp 5b63537c-4f49-4fd9-b1eb-9e6fb99f7661)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp cf7c16ee-d6dd-4c93-b0b5-1acf666f27fd))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 2460f8bc-62f8-49f2-b2ef-cfebe6afdb92))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -812,14 +934,14 @@
     (attr smd)
     (fp_text reference "SW8" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 62bf628d-27d7-4f66-85ca-0ec5f3069fa4)
+      (tstamp cfce9853-0f63-4ac8-b684-2afa8e02a686)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 236a9375-b8d2-48f5-b120-dd7029a76efa)
+      (tstamp 83c49d14-1292-493e-afec-c243116cd65a)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 55c1ad11-a634-4e69-a0ec-29a628399821))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 930c9173-7ee5-43f1-8fa4-39f65dec7144))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -834,14 +956,14 @@
     (attr smd)
     (fp_text reference "SW50" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp e6b418ce-d408-42f9-8a3c-a8cf5672dae3)
+      (tstamp 1f18e515-77f2-4e92-8e66-5deaa4c29bf8)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 436ee9c8-15fe-46a5-b1ab-aed53938df02)
+      (tstamp 0e504d44-f6c7-4949-a198-7e24f52b6180)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 133602b0-9702-494c-9a4e-ee74fddcc935))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 5a67010b-daa6-4e36-b7db-011d10e6bf59))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -856,14 +978,14 @@
     (attr smd)
     (fp_text reference "SW26" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 8ec2e577-4117-4309-8b7a-ea89c6b3f847)
+      (tstamp 85f81777-50d1-4fbe-9f68-2819aa62d4a3)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp cd991b9b-cc27-4188-afbb-2476afd3e37b)
+      (tstamp 74fb18cf-86d0-4c13-9c14-d6fd78fa799b)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp bc74644c-3131-4857-ad5a-5cf40b3ceb6e))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 20cc0b6f-93cd-435e-89c9-bc08d7c0a075))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -878,14 +1000,14 @@
     (attr smd)
     (fp_text reference "SW47" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 6f253cb0-ea21-418f-8616-7f59d750f6d1)
+      (tstamp b7ef7968-72a8-4152-b920-67d58b7eecf4)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 0b13255b-7857-4efa-9a89-22f1d78dd912)
+      (tstamp 92d3231b-ab87-4b6f-acae-c7feff99fb36)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 8cd67bc6-b490-4732-9c9f-a7be6f61af10))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp c459132f-9abe-425e-af6c-aeaac32e27c0))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -900,14 +1022,14 @@
     (attr smd)
     (fp_text reference "SW27" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 56d0fb4f-d887-4f47-ae3f-c16d3566fe1c)
+      (tstamp 66ca1e20-90ba-4c81-9012-c350a14e97ed)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 13f5d682-d9de-4c38-80f6-aabaee0da41a)
+      (tstamp 0129c0be-13e8-4a6c-8426-ce3d644db33c)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp d61f5cb6-0c55-403f-9da1-3e19ac3721c4))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 5f093f4c-71eb-48a8-9c07-c1239622e921))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -922,14 +1044,58 @@
     (attr smd)
     (fp_text reference "SW6" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp f4ce9876-c80c-45b1-ad44-dd2b0e70e5df)
+      (tstamp c8641609-b7c4-48a1-997c-6a050c288e93)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp f33cb1bf-37df-41e4-af77-bdc958680be9)
+      (tstamp f1a8a9bc-756c-4197-b3dd-e0ac27bc277b)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 2a9e3cd0-b1bb-4c4e-a518-66d624d3d538))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 643ebdae-46bc-48a9-8f41-140634842242))
+  )
+
+  (footprint "foam:foam-cutout-mx-stab-2u" (layer "F.Cu")
+    (tstamp 81b616fc-a220-44d9-bae2-de6a5f3534ef)
+    (at 195.2625 114.3 180)
+    (attr smd)
+    (fp_text reference "" (at 0.012 -0.485 180 unlocked) (layer "F.SilkS") hide
+        (effects (font (size 1 1) (thickness 0.1)))
+      (tstamp 368f17d8-a6e5-448b-bc3f-bddac6d07f63)
+    )
+    (fp_text value "foam-cutout-mx-stab-2u" (at 0.012 1.015 180 unlocked) (layer "F.Fab") hide
+        (effects (font (size 1 1) (thickness 0.15)))
+      (tstamp b3cfb070-961e-46d3-82be-0897024596fa)
+    )
+    (fp_circle (center -11.938 -6.985) (end -10.388 -6.985)
+      (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp ab9cf759-7a10-4e5f-8fdf-16248ef1f132))
+    (fp_circle (center -11.938 8.225) (end -9.938 8.225)
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 5e9cb26f-7359-476f-900c-f641f658836b))
+    (fp_circle (center 11.938 -6.985) (end 13.488 -6.985)
+      (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp d36b76fa-1af5-40db-9d4a-f4aece261e0f))
+    (fp_circle (center 11.938 8.225) (end 13.938 8.225)
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 29aaf1cd-0478-4a7f-a0b1-cb638c7669b0))
+  )
+
+  (footprint "foam:foam-cutout-mx-stab-2u" (layer "F.Cu")
+    (tstamp 86124549-1f66-4781-abdb-2109e2c4a310)
+    (at 150.01875 114.3 180)
+    (attr smd)
+    (fp_text reference "" (at 0.012 -0.485 180 unlocked) (layer "F.SilkS") hide
+        (effects (font (size 1 1) (thickness 0.1)))
+      (tstamp d1890ed6-3874-4480-8506-e74c74696e8c)
+    )
+    (fp_text value "foam-cutout-mx-stab-2u" (at 0.012 1.015 180 unlocked) (layer "F.Fab") hide
+        (effects (font (size 1 1) (thickness 0.15)))
+      (tstamp 54cde40a-03a7-4fd4-8b79-44bed93bf40b)
+    )
+    (fp_circle (center -11.938 -6.985) (end -10.388 -6.985)
+      (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp d9695f34-2fc0-4f42-849e-7f9e725b30cb))
+    (fp_circle (center -11.938 8.225) (end -9.938 8.225)
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 91535939-d528-440e-a5da-127342f72439))
+    (fp_circle (center 11.938 -6.985) (end 13.488 -6.985)
+      (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp d30e9596-4e20-42d4-9ea4-0060b9a86542))
+    (fp_circle (center 11.938 8.225) (end 13.938 8.225)
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 32bac781-edaf-4d0f-bae0-aaa760b5559c))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -944,14 +1110,14 @@
     (attr smd)
     (fp_text reference "SW22" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 6a1e4b06-95ce-43a1-b3c2-60bd2895a35f)
+      (tstamp 0a521cf8-d1ce-4c6f-afc0-b95c07c583eb)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 37c43e6e-058e-4a7d-b254-2944554b9b86)
+      (tstamp 18400dc7-9d08-4a42-bdbf-30c20c65a865)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 789f0b85-5b09-46f8-a77c-ac17de80f9fa))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 9ae61ee1-a4d2-416b-8f4d-6a73da7756d3))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -966,14 +1132,14 @@
     (attr smd)
     (fp_text reference "SW54" (at 0 -0.475 180 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 82c47d66-2d88-4b11-aecc-7bcc7eb55bac)
+      (tstamp 6a500c65-065e-4f4c-8520-623c08dc521e)
     )
     (fp_text value "SW_Push" (at 0 1.025 180 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 3c523923-42f3-4eb1-8a37-65e444f0537d)
+      (tstamp e53cb607-5ae4-4c13-832a-7283822b202e)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 9191fd01-bbf6-47f7-bbe9-3cde299404d2))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 2e12adc1-82af-4be3-ab83-5e9ff524729f))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -988,14 +1154,14 @@
     (attr smd)
     (fp_text reference "SW16-2" (at 0 -0.475 180 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp f02e7fa6-7454-49ef-bc69-45d896228a3d)
+      (tstamp 60ce4652-9411-4aac-b3bc-ab2fda6348ed)
     )
     (fp_text value "SW_Push" (at 0 1.025 180 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 4d7ef42c-083f-4942-94ee-4dfbd0a7f98e)
+      (tstamp 0b67d3ed-3bf5-4808-9679-0fc1e5480e38)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 603be52f-03c5-4d45-99b4-7c675fb80261))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 96046faa-b52a-40f7-8270-3c32365718c8))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -1010,14 +1176,14 @@
     (attr smd)
     (fp_text reference "SW9" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 96eb4d56-d325-41f5-9159-77e501f25ea4)
+      (tstamp fee75794-4b28-4049-b321-2d5d185f3058)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp bc4e0dc1-396b-43f6-a67a-2c59aa4903b5)
+      (tstamp 6c895cca-cd3f-4d50-b652-4626c3cfc9ae)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp b13f5d13-6f56-4d6b-8ca6-4e7bc90240c8))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 69e3ce01-3670-4658-887a-a82ef3b4ffb6))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -1032,14 +1198,14 @@
     (attr smd)
     (fp_text reference "SW24" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 09b118fc-6743-4dbd-8bb2-dd298c8994a2)
+      (tstamp 6c35b9ea-681e-460f-b7de-f6dbaaeeadb5)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 3b127c19-015e-426a-a2ba-380adb48de45)
+      (tstamp c10e2906-1384-4f0f-8634-fb045c260a57)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 319d5505-110b-45e7-95fa-8705a9d97cbb))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp a635c928-6f15-4ba2-a2c8-b227f344c654))
   )
 
   (footprint "foam:foam-cutout-hole-for-m2-hex" (layer "F.Cu")
@@ -1048,14 +1214,14 @@
     (attr smd)
     (fp_text reference "M2_5" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 0b92e35a-24f0-4273-94e5-cc16243c658c)
+      (tstamp 50d9dac2-101d-4c56-b523-230c01546fd6)
     )
     (fp_text value "Val**" (at 0 1 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp cf5b0de7-18ed-432c-ba39-9841c67bbb3b)
+      (tstamp 51e61989-9009-4979-98f3-5cf49d3658a9)
     )
     (fp_circle (center 0 0) (end 2.1 0)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 850d51fc-425f-4f03-a1e6-45795f28dad6))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 22386632-1eca-4e83-b255-33d159e3cd42))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -1070,14 +1236,14 @@
     (attr smd)
     (fp_text reference "SW60" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 2814fec1-3609-4fcc-83a9-9010ec410527)
+      (tstamp adf77a16-726b-4377-85e8-ba420cb521d1)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp f5848305-2b4c-4f91-b2b4-3976bfb318ed)
+      (tstamp 25afe27f-38fe-4ede-8f86-ddbde5c82676)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp ace09530-c3c0-455b-8fcb-882832df3319))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp ec60d6ec-9beb-4556-81cd-f6c80b04069f))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -1092,14 +1258,14 @@
     (attr smd)
     (fp_text reference "SW7" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 0d1a01c0-33a6-4944-8138-89dc5515910e)
+      (tstamp eb36e592-61a3-4ba6-b052-b969f444d4e6)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 53b2acfa-b9f0-469f-9c19-d1481503175c)
+      (tstamp dd13a98d-eb0d-41fc-a746-5bc72a01cb91)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 20402b7b-6e5c-4cc4-8a04-40ea6b8eca16))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 5f6f9c20-1881-417b-8836-ef4a3b1a9063))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -1114,14 +1280,14 @@
     (attr smd)
     (fp_text reference "SW42" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 2fccb53b-cf02-4724-b892-a90c419cd1a2)
+      (tstamp 28c72538-3bd0-4b38-8897-6fea78bc1a3f)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 92da3a1b-51f1-42f7-b7ca-a5aa02f9185d)
+      (tstamp 841d0f3a-fbd6-4c70-b37d-1929e17b5b6f)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp a244d342-bfd3-4e74-860c-6960301e8f05))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp bc574f5a-13f5-4072-9f31-5a561d6963ee))
   )
 
   (footprint "foam:foam-cutout-hole-for-m2-hex" (layer "F.Cu")
@@ -1130,14 +1296,14 @@
     (attr smd)
     (fp_text reference "M2_7" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp f3eae7aa-f163-42dc-920e-2232d7946d28)
+      (tstamp 4053d160-a3fd-403a-bcba-2674a34967ae)
     )
     (fp_text value "Val**" (at 0 1 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 5ee3aaf5-875a-47c7-a363-8e5d0d58daa3)
+      (tstamp 214dcde3-5da5-48b7-95ce-7771fe1e62ce)
     )
     (fp_circle (center 0 0) (end 2.1 0)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 057867b3-ecb9-4e65-898e-853cfb924746))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 2d1a8bd2-16e4-443d-b658-0d690b2df870))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -1152,14 +1318,14 @@
     (attr smd)
     (fp_text reference "SW41" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 82543b4f-f9f1-4e21-b827-baebba01aaf4)
+      (tstamp 2d71ae8a-f4ed-472c-a7a1-85114e6a2cc4)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 05cbe77a-f446-4da2-94d9-6641d1428983)
+      (tstamp 1b5606c4-ca99-437e-84c5-48dd833bb8d6)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp bbcd0b83-3dd8-4651-b696-76c9adfe3963))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp c7d6288d-8df0-4b2a-aca4-7eef92494065))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -1174,14 +1340,14 @@
     (attr smd)
     (fp_text reference "SW4" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 84fc8246-8831-4fb9-a6c2-d533892b080e)
+      (tstamp 825e4d98-5251-4b26-b77f-201d0ff7fe43)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 635debc8-9977-4b5c-b9d2-74796a4fcc70)
+      (tstamp f76665b0-f2a6-4f2f-a1cb-c5240b4a116e)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 6d8deb2d-a8b7-4f8f-8fbd-65b2744780e5))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp cc85bd1b-4bfa-4c95-b6d1-d51122409f00))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -1196,14 +1362,14 @@
     (attr smd)
     (fp_text reference "SW11" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp e307c547-069b-4480-a1e5-49c4235da30d)
+      (tstamp 563f7d6c-8436-4d65-b9ff-2ceb60dbc06f)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 62279c42-c920-4b1d-84f1-1cf82d372037)
+      (tstamp 9bcf0e73-50a5-4150-b750-4bc4f27f6671)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 2cf480a4-6f16-42c0-a760-19cfde52d303))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp ba72b80e-33c8-4a0e-8f69-9188ec3b7404))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -1218,14 +1384,14 @@
     (attr smd)
     (fp_text reference "SW43" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp a5994c76-1edf-4bf8-bb6b-87f188cfe321)
+      (tstamp aefc1127-d8eb-4722-9245-72e2d926b7d2)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp e3061fee-b6a8-4313-9f1b-11fb005b9c26)
+      (tstamp 0f1e9418-78db-41ed-9090-cc143926c9dd)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp e6c89a6a-f709-4f76-ae6d-a7aac608356e))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp e814921f-bafa-4b5f-93ba-70af3bea6ed1))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -1240,14 +1406,14 @@
     (attr smd)
     (fp_text reference "SW48" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp aafe938f-3ced-4fdb-9103-5048f6743c61)
+      (tstamp b2d94dec-03b8-4be9-aa0f-d62f92dc186e)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 50822570-2e05-4bfe-8464-f93517707b43)
+      (tstamp c1ccb9cd-f909-4b45-a625-c20597534c3f)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp b8eb805b-c50b-4958-9277-1c91bc4ff3c8))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 2fb463dd-85cb-4dd7-bfff-5fbd8ab34f0a))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -1262,14 +1428,14 @@
     (attr smd)
     (fp_text reference "SW2" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 925c1e51-9887-4e0a-ac3a-41408e121f42)
+      (tstamp 6b71fc2f-cdf9-4316-9794-d2d3548c5d29)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp c8544ee3-6dec-4a80-8af6-9748a8425ded)
+      (tstamp 316fac26-596b-4e2f-9207-5b9d5edcc492)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 1c6cb7cc-efed-4ed9-a63d-edc8aded5a24))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp d52dbb73-c67e-44d9-acb7-9629d30c5c2f))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -1284,14 +1450,14 @@
     (attr smd)
     (fp_text reference "SW51" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 0a47270a-f378-406f-9f2d-30d2554fad17)
+      (tstamp ac940a81-2c41-49ff-94c6-44f536304c5e)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp d193afae-92c4-4463-9259-8c6f9303e7c4)
+      (tstamp e94f0c74-466d-40c6-bd74-595a7a249df5)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 88f9e5a1-c220-46ee-b57d-27ba751598f3))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 85ce097e-4470-4ccc-a9c8-8f8af64f74ec))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -1306,14 +1472,14 @@
     (attr smd)
     (fp_text reference "SW36" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 735fb733-0e10-4c70-abb6-94355f0c941f)
+      (tstamp a19c50d0-64f6-4b60-bb72-2e49efeb9f3e)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp e5c0b118-43e0-4e6d-b32b-9efabf259965)
+      (tstamp c78cd6ce-317a-4528-9744-200929fa59f5)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 8ca943db-a326-41dd-a337-fca66422c2c8))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp a1a3112e-c6ba-4371-8303-f42bce36c06e))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -1328,14 +1494,14 @@
     (attr smd)
     (fp_text reference "SW52" (at 0 -0.475 180 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 704153d0-17da-4553-b513-eedaa76997b5)
+      (tstamp debe5206-4756-4fe6-9a77-901f0456a279)
     )
     (fp_text value "SW_Push" (at 0 1.025 180 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 0a6a7668-e042-4523-92ec-078a3a1b51bd)
+      (tstamp a0f9a7c9-0505-418e-a45c-216e3341d6c1)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp f6780655-cd4b-4f9d-b4bc-b7680af8a8bb))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp f700e872-e79f-4c33-8a7a-2e13a685676f))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -1350,14 +1516,14 @@
     (attr smd)
     (fp_text reference "SW23" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp edb1737f-b10a-43b5-9f3c-7be4d02fb79f)
+      (tstamp 3eeb24a4-8b98-4b14-bc37-f9c893991f78)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 68c66c94-852b-4cd1-a155-67fa54e881c4)
+      (tstamp 36b2594e-3036-44cd-90b9-39a5afa47c28)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 42d63e2a-1d7a-4289-a022-cd2adcd01fec))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 6b46a084-152a-4087-a32e-5a0589175d37))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -1372,14 +1538,14 @@
     (attr smd)
     (fp_text reference "SW45" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 139e0187-ecd4-4ddc-b959-51793815cb29)
+      (tstamp c751b5e4-3b01-4b85-ab70-73fdaa5defd5)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 0c992a15-37f9-43e4-8f92-1007c1ec16f7)
+      (tstamp 238e0916-5078-4808-9122-af868b2dd00e)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 157cf197-0fdf-433d-9173-92c81c4b0253))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp f604d497-49a9-4c49-ab38-5ef8b0861ccd))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -1394,14 +1560,14 @@
     (attr smd)
     (fp_text reference "SW35" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 93979c81-4e6f-456b-9860-09345dbab3ce)
+      (tstamp 531a554f-4819-4237-b758-5c568eb29203)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp db74a548-0ae7-4596-8004-9eebd540a40c)
+      (tstamp 8fe0e531-c2f6-4949-a1be-122396fa0d96)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 87f1763f-8587-44c4-ad44-d561f8e96b29))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 0de58c94-260f-49d7-9ef5-f855cff054bd))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -1416,14 +1582,14 @@
     (attr smd)
     (fp_text reference "SW3" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 8f538e68-538a-4d90-834d-e8e5aad04f56)
+      (tstamp 801e9256-a97e-471e-b600-945950fb34db)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp b241a9cd-fb6e-49b9-8e94-6b78e3281982)
+      (tstamp 27d5f073-a5f8-48ad-843f-080c5b540682)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 471bc1cf-9fa4-4e3c-81f1-60c546ef65ce))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 1d3de4ec-de79-47df-a00d-5f06381bfb52))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -1438,14 +1604,14 @@
     (attr smd)
     (fp_text reference "SW12" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 8f75be70-1046-40ba-954b-8e094d23e558)
+      (tstamp e124479c-10c7-4a3b-a4ba-79bb10877056)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 4ef4436f-0237-4af5-90e1-e6d1b59d595e)
+      (tstamp 3d177626-a14d-4317-ae3c-5f1135040edf)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 23596531-28ed-4df0-aaeb-6b6ec038f11b))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp bfe837b0-4aa9-409e-a506-73760660441f))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -1460,14 +1626,14 @@
     (attr smd)
     (fp_text reference "SW13" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 776f688a-c03e-4287-93d0-3d434610ca84)
+      (tstamp 996b6365-bf9a-45cd-b0ba-1fb3be2c2450)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 0b4eb079-0704-45d6-b102-36c3c2050d8f)
+      (tstamp 0b138059-e496-49ff-b699-cde4ecca3118)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 3d962f99-80e9-4640-a686-4df343206963))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp ee7eceeb-d123-4d37-8a3f-9bb27b4d0e4b))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -1482,14 +1648,14 @@
     (attr smd)
     (fp_text reference "SW17" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 1f433baf-413a-46da-b208-14143d6373b0)
+      (tstamp 9f315633-e94b-42b8-84b8-e78fe8d48105)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 91f4e420-16da-4b7b-a958-ecea2329f727)
+      (tstamp a51daf3c-9c33-4d66-932e-6d6c62cbc250)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 6effe815-6ee5-4185-94e0-67a307cb3cd2))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 5947df91-2860-4e6f-87e8-5bef6bd2f584))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -1504,14 +1670,14 @@
     (attr smd)
     (fp_text reference "SW18" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 65e48a9a-04e3-4815-b142-eed78f34d222)
+      (tstamp 1382343d-2860-48fb-87f2-491b1a108929)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp d2dad292-d624-486d-a197-7a748ec3dc1d)
+      (tstamp 1167c30c-a0d9-42fd-b16c-878bcd2982ec)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp ff380d45-ea4c-41a4-80d4-384f6090cb27))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp ee797818-e4d6-4f79-bb5e-9dac2186be32))
   )
 
   (footprint "foam:foam-cutout-hole-for-m2-hex" (layer "F.Cu")
@@ -1520,14 +1686,14 @@
     (attr smd)
     (fp_text reference "M2_9" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp a7aeb15f-c044-427a-ba7b-489926b67e7d)
+      (tstamp a4a6f737-846f-420d-87ef-5ea6c9ce65fa)
     )
     (fp_text value "Val**" (at 0 1 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 9c5a0cd0-69d6-4b24-9664-cf9e28feb71a)
+      (tstamp 07f44e2a-abf0-422a-a21f-b76af6d3a7f9)
     )
     (fp_circle (center 0 0) (end 2.1 0)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 98af5eb0-3a5d-46ed-a12a-f96ad3a17d03))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp b7bb98e3-1df8-4ba1-89dd-4598902eee54))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -1542,14 +1708,14 @@
     (attr smd)
     (fp_text reference "SW57" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp a50023a6-ab79-4068-badb-3e2e12317b6d)
+      (tstamp fac77e12-f46d-4a87-9137-74c6be2024f4)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 0fd3e595-23e3-41e6-9a22-5b2a1eacfbf5)
+      (tstamp 77133d31-1e9d-40ac-aeed-c370bda03792)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp c6a2e18f-9b95-4323-ba62-deb0ff63ad75))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp a81c9ea4-5bfe-4dce-9a7d-822b5470d8f9))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -1564,14 +1730,14 @@
     (attr smd)
     (fp_text reference "SW38" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 07847f3b-ba46-42f9-8c2d-b0dc0a171c70)
+      (tstamp 6752475f-22f9-4a96-bdb0-aa188c413da7)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 4cb96122-3a58-4730-90f6-88393796d4c5)
+      (tstamp 0f277748-48de-4125-ad9e-adcc5f52ca4c)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp f32f7933-be85-47b8-91c2-917fb8ae9155))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 5e3f253d-2b63-451c-8e95-3f841306c4e2))
   )
 
   (footprint "foam:foam-cutout-mx-socket" (layer "F.Cu")
@@ -1586,14 +1752,14 @@
     (attr smd)
     (fp_text reference "SW31" (at 0 -0.475 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp be9f9b6d-c516-4a77-9b2e-2fb2659bc84e)
+      (tstamp 25367f00-e87b-4d17-9496-d3ea93653fde)
     )
     (fp_text value "SW_Push" (at 0 1.025 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 473ec8cd-62f2-4736-9ed9-3985048cce0b)
+      (tstamp bbb77e7b-7bc8-45ed-8b80-0b5df42bf6c8)
     )
     (fp_rect (start -8.6 -7) (end 7.3 -0.6)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp e2cfeb52-eb38-4548-9e50-8993c5580f7c))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 579968b4-e9c8-42c7-b1c3-bc55a0d46c2a))
   )
 
   (footprint "foam:foam-cutout-hole-for-m2-hex" (layer "F.Cu")
@@ -1602,14 +1768,14 @@
     (attr smd)
     (fp_text reference "M2_3" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 83e12f3d-d3a6-4144-900f-fc33102f7bad)
+      (tstamp 825cbcc4-0a4f-4d94-b9f4-e75ac2a398de)
     )
     (fp_text value "Val**" (at 0 1 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 15a9147f-9cec-4a2d-b125-bac34ba83657)
+      (tstamp 2491289d-2cf9-4ab8-ad21-a9dc480d9f43)
     )
     (fp_circle (center 0 0) (end 2.1 0)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 271baf1c-294d-4289-8cf1-c9efe486fbf2))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 813d85de-748f-496c-be26-3c92114e2fee))
   )
 
   (footprint "foam:foam-cutout-hole-for-m2-hex" (layer "F.Cu")
@@ -1618,14 +1784,14 @@
     (attr smd)
     (fp_text reference "M2_6" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp f5ed7c77-7956-41b0-af49-e7f3b2ca4705)
+      (tstamp 63dad896-cbe9-4795-a743-b92d4a0adf30)
     )
     (fp_text value "Val**" (at 0 1 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 86160eba-f58e-427b-913f-87cf0be8a54d)
+      (tstamp 0d5285a6-04e4-40c3-af71-b74c52938842)
     )
     (fp_circle (center 0 0) (end 2.1 0)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 27a38c02-78d1-4d8e-9483-d1654250e8d0))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 1ae02728-a49d-4df3-b427-9aa6617a405c))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -1642,14 +1808,14 @@
     (attr smd)
     (fp_text reference "D50" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 1147768d-7612-4b6f-a701-c7a21a671471)
+      (tstamp d1b04380-9c45-4090-acba-dec7fe2f174e)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp f6439c12-aae6-4724-8157-b718946b6b64)
+      (tstamp 6cea3e40-6456-4fe3-8b44-f91a5f8cc46d)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp b3dfa6de-f6d4-42e6-ac93-96777f924b3f))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 61d8bf35-dcb1-48f5-b808-98e98bf5632c))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -1666,14 +1832,14 @@
     (attr smd)
     (fp_text reference "D55" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp aced0392-f2f6-46a2-98a5-631b60cefcdc)
+      (tstamp 7c05e54c-46af-4e8a-b3b2-f6c81837affa)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 637031c1-a827-4153-b693-7703bbf4ed74)
+      (tstamp d5d969ee-e513-41db-af1c-155d99ee293b)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp e9bbf6bd-d7de-4227-8d10-73b5d1ed96df))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp ae955d52-8d17-404b-a135-550f6299537b))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -1690,14 +1856,14 @@
     (attr smd)
     (fp_text reference "D30" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 7f440bab-fbb4-448f-8a5e-3c0983899e98)
+      (tstamp 5590e910-16b0-4c57-b8fc-eb60d36414f1)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp a20a9f28-deb3-47e7-a30f-97325511f2f1)
+      (tstamp 1ac74893-7140-4aaf-aad4-865cf59b2821)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 240ecbb5-bb99-4dd2-b9e2-d2640f37cfd1))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp d0b3d506-9d4d-4aed-b874-fd4cf5168e7b))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -1714,14 +1880,14 @@
     (attr smd)
     (fp_text reference "D53" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 7d9c119c-614c-4a8c-9e1d-aab909f936fe)
+      (tstamp 914fcd6b-4a88-456a-afcb-b66c7e031b04)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 8002d6dd-a4e2-4ca7-b519-d333b04f092d)
+      (tstamp e1b40dfe-e4a3-467c-bf46-d02368b00a8a)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp d2beb432-95e0-4f4a-be60-ebbcf6710fb2))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 74749be4-017d-467c-878e-079ef2c56d1a))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -1738,14 +1904,14 @@
     (attr smd)
     (fp_text reference "D8" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 4d1071d7-9ae7-4e2b-9187-2045a347c41e)
+      (tstamp dcb89965-b9d6-4b5e-b1a6-fcb25b67e0ac)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 8866ec47-8247-4cef-ad3b-008852d83cbd)
+      (tstamp f4d185cc-a35e-4392-bc01-f04208d93eca)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 73320ac8-3177-4c9e-8306-99c1fa9d5d38))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp d4f4eb91-d66b-4da9-b2cf-995d0052af98))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -1762,14 +1928,14 @@
     (attr smd)
     (fp_text reference "D43" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 4fb31405-6fd0-4673-9ac7-82b89f51cdf4)
+      (tstamp 0b288ea2-1b9a-4ea4-a606-30a66b086171)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 91f70088-9995-44ab-afed-50aeaf8d68f2)
+      (tstamp 5f615dfd-d48d-4657-ab1b-4878eed69d45)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp c2499a48-c0bd-4403-aef4-5c8572dc94a3))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp a67e28ce-3208-404c-aa45-092969ce873d))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -1786,14 +1952,14 @@
     (attr smd)
     (fp_text reference "D22" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 0843a1a4-3f51-4e0c-b4dc-53b894c7d513)
+      (tstamp b482ec2b-7a54-4129-8f01-f150370163bd)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 25b3195b-7d45-4ac4-b509-8d17d516ba24)
+      (tstamp ba343d97-afb3-4feb-89e1-2c6c4ae40e2d)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 41274879-cc1e-4e8e-9ad7-a5bfc6f87b16))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 221a5973-fe16-4bd5-b3b4-df9ca4bd5182))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -1810,14 +1976,14 @@
     (attr smd)
     (fp_text reference "D28" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp af4fc56c-7e0d-489a-b670-2d7a12b7cb64)
+      (tstamp f6ec67ea-48b0-4a41-bfc4-4954e5b4906b)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 8c2db622-46c7-4ed7-a1f0-d608223869f1)
+      (tstamp ac6c4341-86ec-487e-9cf2-ad4d76387245)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp e5024c9c-11bd-4acc-baf8-fa5aa751f195))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp be75a00c-dece-4079-9834-d421f4a4ea0f))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -1834,14 +2000,14 @@
     (attr smd)
     (fp_text reference "D2" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 57962738-485a-4862-83b0-17a14aafa5f1)
+      (tstamp 8590ab4c-9b1c-4d62-b26a-12eb426c732d)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 36af2fba-91a7-4596-b192-a075b42a49ac)
+      (tstamp a41a96a5-d5aa-4859-80f6-d3a261718dd9)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp ce8338dc-49bc-406a-bfd7-cd926d44992f))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 952af9c2-0040-45f0-9d74-3e2795c62935))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -1858,14 +2024,14 @@
     (attr smd)
     (fp_text reference "D56" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 6cb89a8d-4a44-4372-9dd1-cdd3c3511a13)
+      (tstamp 7e5c382a-b789-4ecb-9578-c41a554c772c)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 6a06add4-a3aa-4c8a-8705-1744953a37bb)
+      (tstamp 1b756448-24f6-4249-ae9a-791c2935c81c)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 0951c34a-dd46-4a2a-b5d7-7d2119fdc14f))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 3c071a1c-96d9-4cf7-865b-74dc0c1025e9))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -1882,14 +2048,14 @@
     (attr smd)
     (fp_text reference "D7" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 3a6471d0-38fe-4384-a4a7-2b6692eed700)
+      (tstamp 74ec01ef-b68a-4fe6-a09d-af9c4192e5f8)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 3a9becb3-da9f-4df1-b35d-3d01e023641d)
+      (tstamp 6c7409ae-6ada-4bca-bd8d-fae24e20277d)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 1c4e04cf-962b-4ca6-8364-01c378c6f1ae))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp a276c73c-6726-413e-9868-f7e6ff834aee))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -1906,14 +2072,14 @@
     (attr smd)
     (fp_text reference "D51" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp e7cdd3c3-b538-486f-bc9d-c8f072fbcccf)
+      (tstamp fcf0e3ba-6e33-4b00-b93f-4d82794c020a)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 06b801e3-3443-46ec-af99-fe8b00f9045f)
+      (tstamp ac251a62-e817-4cae-9561-f50d7efe4b64)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 9f37db2e-7545-4d9e-a86a-3f2bb163ba04))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp b136f5cb-4fde-4b8f-a9f9-1ac3ad5191ce))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -1930,14 +2096,14 @@
     (attr smd)
     (fp_text reference "D47" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 6d5cbc7e-4478-4d1f-881e-96dc47702135)
+      (tstamp f1f51be4-511d-4667-af48-e0c5177c7000)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 64305c0e-28da-4bf3-b84c-ea3a9359aa1c)
+      (tstamp 44f30f29-c8a0-4944-801e-2d266b555180)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 5fcd4299-ca04-4be4-a0a7-00aa0cafedea))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 27621e43-1efd-445e-bfc8-07a55eec5b98))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -1954,14 +2120,14 @@
     (attr smd)
     (fp_text reference "D23" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 3d62a1df-1577-4054-a5cc-f97289c398ef)
+      (tstamp 09f8e516-a28f-419f-816f-d8e5e13e0f98)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp a9a28bd0-88e9-496d-9e54-61a8912dfe86)
+      (tstamp 95dd48b8-89b3-4ea1-a9a5-37494f4d3cc3)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 93cd229a-060a-43f9-931e-0ec557d31dc5))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp b8aa6ecd-a97a-45c6-a413-a8f2dda48b14))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -1978,14 +2144,14 @@
     (attr smd)
     (fp_text reference "D18" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 7f512e65-a898-4d19-a7bf-0291ac2b05c7)
+      (tstamp 16b1f354-0ac0-4a5d-8c30-6bffc72a9bb3)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 039d9df7-8613-42a1-9d33-df414a34a0a6)
+      (tstamp 554479cf-a14b-4ba5-b789-8cab22dcb2e5)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 414742e1-d5d0-40ca-8875-fb74503df893))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp c062364e-0d99-43fe-ace2-59960756988c))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2002,14 +2168,14 @@
     (attr smd)
     (fp_text reference "D15" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 90922148-bb77-4f0d-9bc8-a534282bf0b1)
+      (tstamp 18feb3fa-54c0-4bc5-be3b-d7d6175422f1)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp f9c4244f-29eb-471e-ab72-67e361b116a5)
+      (tstamp aac7f052-d8d1-4244-add5-31bd3676fd3c)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 1b64edb7-b97c-41ac-9fbb-a55fa0ecd7bd))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 2f0b73c6-d878-4e39-80ab-80754cd5b450))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2026,14 +2192,14 @@
     (attr smd)
     (fp_text reference "D3" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 867f4c52-5f6c-4948-be7c-70c6a2576d59)
+      (tstamp d6b8f199-fb12-4562-91b2-30f2d101dcca)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 998708b0-179c-478d-b859-9226e8f6efaa)
+      (tstamp 16f80044-0fec-4052-9cd8-da573c4e3af9)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 2165842f-17f6-4623-8c84-a7e4db4754c6))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp e4165176-e333-4b6b-9141-a4477ebd807b))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2050,14 +2216,14 @@
     (attr smd)
     (fp_text reference "D44" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp b820db23-1b8a-4c16-9b40-8e97d73a1d97)
+      (tstamp 6c24fd29-63dd-4639-b43c-7e3344b867d3)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 9f462100-def8-44b1-a0be-c55a6911ed0c)
+      (tstamp 34deeb29-f08e-4c23-bf8e-45fcdfaf3d8a)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp d373013a-1784-4d0f-813d-e2bb1d609016))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp f0387f99-5662-4466-bb14-a6f5e8090b99))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2074,14 +2240,14 @@
     (attr smd)
     (fp_text reference "D12" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp d46fb232-5ee5-438e-b750-e2a9ac3829b3)
+      (tstamp ccb7f727-7769-461d-8efd-744a4e6ea4c6)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp a1a72263-ff85-4b78-8b00-9767fce5c037)
+      (tstamp 78a96d84-a501-4b04-98a6-408e2fef7204)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 2b0fdadf-316a-4611-ad42-23c88171cf43))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 9460ce95-0dff-43db-888e-dfee944b6b50))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2098,14 +2264,14 @@
     (attr smd)
     (fp_text reference "D48" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 308d0149-38ae-432f-a6f8-094fce63fae2)
+      (tstamp dd4fbc42-f84b-4306-82e8-9a4cec4771bd)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 4f297f38-ecf0-4ce0-8e1e-dd8a097852b1)
+      (tstamp 557027cd-2590-4557-8c7a-c066a75c004e)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 72f61397-9b59-4f11-b3af-afc9d886bcb6))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp d8249b6e-5edc-4a44-99b6-2945c863e8b5))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2122,14 +2288,14 @@
     (attr smd)
     (fp_text reference "D4" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 1af7d3ca-897c-49c1-ac7e-f821de042b43)
+      (tstamp 778f5195-7387-40c7-8643-c0576ebc4ba3)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp ceb7e40f-96d1-42b2-ad99-2cfc9cd71fba)
+      (tstamp 76b399e3-317f-48c5-8d33-fba8656edc2b)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 86edb28f-f778-4933-abfc-711cfe02b9e8))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 60295cac-9302-455e-bcee-4613620b5967))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2146,14 +2312,14 @@
     (attr smd)
     (fp_text reference "D9" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 700917e7-432c-445e-bbd2-f6cedcfb3c29)
+      (tstamp ba046835-7617-4691-9185-f9ceea6a8220)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp b5d20ac4-f0bb-4161-93f2-00042332e350)
+      (tstamp c2152851-1f82-42c0-b2e9-8f4639f4070f)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp e5a5d5a5-ccab-4bab-81c9-0f294b0b7280))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 1165689c-cb5b-4e6c-8ebb-2e1c35dc8660))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2170,14 +2336,14 @@
     (attr smd)
     (fp_text reference "D36" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp c14a80ea-6ee5-494e-85c5-e4a39888272e)
+      (tstamp 882a8c19-0f74-49a7-b5b9-08621375d04e)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 98777f3f-488e-4453-83e6-df8e9d5f9a12)
+      (tstamp 2cdce7ca-e9b7-47fa-aee2-865dfff71e94)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp b05e1a91-1e29-4137-a3c7-acf1e893fc66))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 16f38537-2b38-4a7b-93ce-5b0dcc0ae605))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2194,14 +2360,14 @@
     (attr smd)
     (fp_text reference "D13" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 5d44b161-efb1-4919-958f-5e1bcc9210b0)
+      (tstamp 1fd85d44-6bad-4b7f-92a2-55e70da1b844)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 722f162f-2ae3-4c80-8f7c-fac80a63eb57)
+      (tstamp b77ee6b2-1346-448f-9ce8-a71168f79128)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 5444d7de-555d-4378-a040-44066fce9bf9))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 22d19edb-91e3-4d48-840e-09e11570f3fb))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2218,14 +2384,14 @@
     (attr smd)
     (fp_text reference "D52" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp eb9751fd-7c57-40c9-8ed0-f72da991e3ab)
+      (tstamp 3fb2d61d-dce3-4f34-ba50-06a0ee1e7df6)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp aa407ce4-4ab0-496a-8dfc-f4211d21f454)
+      (tstamp 4a73cc38-5801-4e54-861f-8cbcae6f3125)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 63179062-173c-4453-b668-6e68d0df459a))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp b7d8819b-1b66-4a23-91b9-37eea460ffdd))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2242,14 +2408,14 @@
     (attr smd)
     (fp_text reference "D59" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 44b98b1c-386f-4557-a739-41db431f8214)
+      (tstamp 4400d95c-e87b-4689-8b3d-09c5bb1eb804)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 15c59d1e-f9dd-4277-9307-c9b63399a35e)
+      (tstamp 94740aaf-f26f-488c-86c1-e1e4eb32a1f6)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp ae2cd044-4f70-4089-b7d3-e307278303ab))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 8252326b-59d7-4f67-8d2a-3688c26a7db3))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2266,14 +2432,14 @@
     (attr smd)
     (fp_text reference "D42" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp de9776b3-c00c-4c1f-b850-46b4bb6c3560)
+      (tstamp a96387ad-fb23-4fc8-961d-58f8d36e0988)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 649b6896-92b8-476d-949c-7dd9b87f0b3d)
+      (tstamp f5ee2050-839f-4f01-a540-673641c7f294)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp df77dfc5-580a-4a53-a0fe-74849740c558))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp f740ee0c-301d-45a0-b349-4873fe688c81))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2290,14 +2456,14 @@
     (attr smd)
     (fp_text reference "D35" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 31800d88-073a-4c7c-b04a-0384a7c67daa)
+      (tstamp 9465a7d1-b3ec-4a0c-a1df-8b9df94340bf)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp e17f274a-24d5-4e4e-8810-106a20683a9e)
+      (tstamp 6f06e308-fb07-4a80-83c6-504a58d70120)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 85d9c432-c336-41fd-93bc-6f1b67025f2b))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp a228ace1-5aae-4370-bd96-9624fce98f07))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2314,14 +2480,14 @@
     (attr smd)
     (fp_text reference "D34" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 7e79af8f-e8a4-4172-83db-34d7ccfa102f)
+      (tstamp 5397cf60-8856-4e0a-b324-7f72468c6eb1)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp d79d37cf-fea2-4078-9492-b2b414e99782)
+      (tstamp 6cd6d1f2-a2f6-4604-80fd-45e91cccde8b)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 21451b80-604d-4977-8049-0560a77f4e5a))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp a7c00e8b-49c6-43dc-8bde-91842650774d))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2338,14 +2504,14 @@
     (attr smd)
     (fp_text reference "D6" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 64191de3-0a04-4022-bdff-32e940c10c3e)
+      (tstamp 73ccecbd-a3b4-45d2-bc74-6fc51f5e17fa)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 9e7575cc-e511-4c4b-910e-b411717fd047)
+      (tstamp c20fe155-5fed-4af2-a9b9-17dc9ffb4c26)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp fdbe507e-429a-4776-9dc9-721ad5be79f5))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 3deb84ea-6d4f-4bd3-b393-8929ff19fa7a))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2362,14 +2528,14 @@
     (attr smd)
     (fp_text reference "D46" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 9fbc66a0-d20e-4162-b903-844e4e96fed1)
+      (tstamp 6d98f718-4b4c-4fc4-b37a-c42c69e43174)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 8c94551a-2912-4d8d-96d4-6ace61ab4bb8)
+      (tstamp 19e5a36d-454c-46ba-ad5f-f5bdd450a511)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp a73c6a12-471a-4c79-a641-0d5d3cd91aa4))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 3605117b-c6a9-4134-a7f5-08be565885b2))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2386,14 +2552,14 @@
     (attr smd)
     (fp_text reference "D37" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp b4b32fb1-8717-4f90-afd0-52f2cdcea86c)
+      (tstamp e3dc367e-44e9-40f3-bbfd-44a442c9ecc2)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp d13ca9e9-c812-4a5d-b2f8-ad0e9a84f604)
+      (tstamp 55d90084-d3ca-432a-93d3-e5d104a2e06c)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 75a496ad-de19-43b0-8e7b-dc3dae73f429))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp aeb91125-44c8-4349-8ea2-6e38367ed061))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2410,14 +2576,14 @@
     (attr smd)
     (fp_text reference "D40" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp c012cb17-12ee-49f4-a6ad-708f5892cb91)
+      (tstamp d326d00f-ef90-4128-8777-e7918c80680f)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp b412c110-f5bd-4833-aaf9-8b4d6629c770)
+      (tstamp 59ed4052-f2a5-4790-b43e-fc81896dfb04)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp e38a31d7-abbf-46aa-bde4-4f560e972569))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp a0ca3282-bd0b-4d2e-88b4-1d528ae3f101))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2434,14 +2600,14 @@
     (attr smd)
     (fp_text reference "D16" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 6cf30588-9974-4596-b6d0-6526a1703786)
+      (tstamp 767d7538-bcb3-476b-b4a7-b73018298dfd)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp a5483d8b-ce42-4e07-86b8-0d60c5e6cbcc)
+      (tstamp 56562005-6dd2-438c-a429-a4f00cf5119c)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 5915d4d3-caab-4ec5-bd1a-0aa1d3a127ae))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp b30b9903-a962-4b39-b877-9ccd53246399))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2458,14 +2624,14 @@
     (attr smd)
     (fp_text reference "D57" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp ad4b19a4-3f33-49f3-a37c-638ae9d8dcac)
+      (tstamp bf261d49-9e73-4da1-ab56-f0ae81d419a9)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp b584aff2-f1d7-4774-aeb3-3d905078ad48)
+      (tstamp 9ad5216e-eaa8-460e-ac6c-d5df814fa8b2)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 722b8c70-ee72-4df8-af49-1861bc13a771))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 3256d9f8-426b-4fe0-89a1-42ba220dbff7))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2482,14 +2648,14 @@
     (attr smd)
     (fp_text reference "D49" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp ceade7bc-7b8f-4831-9ae4-f1d948b8e3d0)
+      (tstamp 1f5db50c-cf66-4d51-b6a2-c160c5a61998)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp c7b079f7-e127-4548-be62-3b44026ff4e2)
+      (tstamp 8defa829-a48c-48b1-8149-e6b8f57c8250)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp d9679add-3b86-4566-aeba-432b269f6f87))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 468770ba-4b92-491c-a570-365087f4592b))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2506,14 +2672,14 @@
     (attr smd)
     (fp_text reference "D26" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 802a2997-4ac9-493c-9ec2-f65dfb910e8c)
+      (tstamp eac3b6fb-6d12-4359-ac1a-59cd79d7906e)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 46a219d8-26b7-490e-a6e0-2271157a3fef)
+      (tstamp 3b60bd4b-9c28-4356-9211-fa02483df9c7)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 59eb0e9c-8003-44c4-a703-2284f180d3f8))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 4c7f5d70-d613-42a6-9964-aaf9a8e5b27f))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2530,14 +2696,14 @@
     (attr smd)
     (fp_text reference "D39" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 5674cfea-09ce-4ae7-9c49-4d3fc048334a)
+      (tstamp 178c58b4-424c-4c0f-98bf-7a5e85f757d5)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 3759761d-049e-4d70-becd-9385d03d873b)
+      (tstamp 4f98e903-a973-4a74-8ad0-668ecc39ccc2)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 2e2c674b-a7c6-4bcc-9a9b-cae78ca08bbe))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 959fe9dd-7b79-4b6f-862f-ee4119d0a3b7))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2554,14 +2720,14 @@
     (attr smd)
     (fp_text reference "D25" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 3a244c4f-dc7d-4c8b-aa09-a0194427218c)
+      (tstamp bb18dfb5-c683-4e4f-9227-bfef114fc2a3)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 8e8c7586-0347-4b26-bded-2272bcbd4bd6)
+      (tstamp d39b91b9-68b1-444e-86b0-a710fa33eb8d)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 20455441-87d6-4e02-bc80-7c598aeafa3d))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 1820aa74-f23d-47b8-a155-e333d9a21c91))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2578,14 +2744,14 @@
     (attr smd)
     (fp_text reference "D14" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 4180ac41-520a-4e23-908d-60cba629a5a3)
+      (tstamp 8ebf7731-d8e0-4d71-98f4-e24d904f75b6)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp cdca8795-e236-4be9-a0c0-c502905b551f)
+      (tstamp 070bd5a1-fb72-4a7d-905a-4e65115a73f8)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 6ee660bc-97de-4701-a220-0b022c27477e))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 68eabc5d-80fb-48a3-be5f-74e0e2350549))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2602,14 +2768,14 @@
     (attr smd)
     (fp_text reference "D54" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 468f28c4-2ee4-4ce8-9183-53323be77ab2)
+      (tstamp dc0b8ce8-7580-493d-84d8-bc56b2b8a212)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 5f7ecbbc-4690-43df-8ee7-f6ecc3ef3c56)
+      (tstamp d06ac804-818a-4f30-9385-ca107ae842c4)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 73acb083-5148-4373-8e91-00243aef13d2))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 1bfa4950-b6ee-4ae7-b087-bcc3e21255ff))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2626,14 +2792,14 @@
     (attr smd)
     (fp_text reference "D1" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 3d3e01a9-7876-438d-b31c-fd5260a09316)
+      (tstamp 080dbd89-5b0b-489f-9485-7518e8fc1a33)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp f611bec5-fd90-4a4c-8e33-410081b743a8)
+      (tstamp 450d280c-e886-4efe-b960-e47d4cad73f5)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 3aac50f4-2d7d-4b4b-ad97-e576e993cf92))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 6a81563a-6d0b-4019-9ed0-7f4122c242b5))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2650,14 +2816,14 @@
     (attr smd)
     (fp_text reference "D21" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp c2c6f8ca-8701-422b-b169-823262e3b60b)
+      (tstamp 457b6147-7d65-4e27-ae47-ad99e77d3d57)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 2dfafa11-1f2c-4c9a-8fd0-87f3f1d8349f)
+      (tstamp f6c1aad9-0b10-4fc9-8b48-6f13d8d28ad4)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 4fefd427-b216-4bcb-8644-f39ebd4997b5))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 84d2018b-2197-4abb-a259-d0f0855f1531))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2674,14 +2840,14 @@
     (attr smd)
     (fp_text reference "D29" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp dfbb41bc-d214-47b2-a81f-994e15210d3e)
+      (tstamp 07af24c4-0833-48ec-88e5-05a850d1198a)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 4a896a11-531b-4932-890b-805527e85c6f)
+      (tstamp 01b7bff3-1542-4a7a-bfa8-e4ffff4ccc3f)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 1980c147-0949-4c14-be0c-ce83f67b9133))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp e0afab1f-b6ea-430e-83d1-4b43ce239c4e))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2698,14 +2864,14 @@
     (attr smd)
     (fp_text reference "D41" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 603c8e60-8588-4b57-a220-da077887df2b)
+      (tstamp 90dee98b-7511-480b-b560-4002e1f07f2a)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp a6255c7a-5a3c-475e-8922-32924fd9103c)
+      (tstamp 32459b7a-8295-44d0-994c-fab4f01a5772)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 9eca2845-cdc6-422e-a60c-817a7f87d965))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 81b0a354-f4e4-4ee3-988a-59375a7d20f6))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2722,14 +2888,14 @@
     (attr smd)
     (fp_text reference "D10" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 967fab83-b0be-4960-8d69-ff88edbb9215)
+      (tstamp ad6ac877-a5eb-4da3-8b48-ffb13ecffcba)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp fba3801f-dca3-4ee9-914d-7b8a7be3fb15)
+      (tstamp 03ecebc3-8aab-485e-8734-446b88730e09)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp df342503-8fdb-497e-a099-37e085c4f89e))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 90970c46-933d-4d97-b27a-302357c0335c))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2746,14 +2912,14 @@
     (attr smd)
     (fp_text reference "D58" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 0633b5af-396c-4878-9697-7dee6c5210eb)
+      (tstamp 12139dd0-9d57-4da3-9826-867cd69ff084)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 86f42247-8c04-43fb-9240-8e323067ae23)
+      (tstamp ac47f31a-b4a6-485b-ba5d-80d3101221f9)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 26fdd5c5-4ba4-4333-a716-3f6a03cee32d))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp d1722e09-70c1-4393-90ee-37273377dc51))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2770,14 +2936,14 @@
     (attr smd)
     (fp_text reference "D33" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 97307cce-ed62-4399-99ba-56cfd3f36122)
+      (tstamp b718e95f-e7a2-41dd-b774-2dab298a0ec7)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 0a3120b3-c200-4e3b-84d4-0ee695e95ec5)
+      (tstamp 6a55d477-84d9-4987-90d3-556d76a05c7a)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 6ef9d052-90ca-4eab-88c3-23c634fb9e98))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp a384a704-f3ee-460c-b958-602129541c8b))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2794,14 +2960,14 @@
     (attr smd)
     (fp_text reference "D31" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 8170bedf-64d3-43b6-bd38-450150c92022)
+      (tstamp a88b6abd-11c9-4aa3-ab44-0a1d31a322d0)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp daf0568b-cd16-4025-8940-eeb7e1bdfe53)
+      (tstamp b648137d-e1c3-4012-bfc7-0c73b861c103)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 56e19f19-542e-4fd6-bff3-fb84dab82547))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp c1b9fcd6-f316-40a6-be8d-44ba1da16638))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2818,14 +2984,14 @@
     (attr smd)
     (fp_text reference "D5" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 1cfb0968-75ae-4f7a-933e-aa3e185b4d3d)
+      (tstamp 3a897c37-0e5a-465a-843a-ac44c2170ee1)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 3df9c289-71cb-4c13-8b68-d0f1a7b1df24)
+      (tstamp 64c4011a-3277-4d4a-8e3f-1340dc0bf8e5)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 7522068c-f9fc-4430-a6a8-ece0911184a7))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 607f976c-7261-404b-8c91-f340a798a4ac))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2842,14 +3008,14 @@
     (attr smd)
     (fp_text reference "D24" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 46663b29-654f-4d89-beaf-028ed4a549ff)
+      (tstamp fc81e295-6f22-4b3c-9e36-19abb999f77e)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 60981085-f153-4d4f-911a-94094b2efe50)
+      (tstamp 8e0ecaf3-65c3-456f-8ca8-3150b8bc1a14)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 7f8c12f7-9abe-4cfb-9a23-848ace0b41f8))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 437301cf-59d4-4cdc-a47f-06bb423cd238))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2866,14 +3032,14 @@
     (attr smd)
     (fp_text reference "D20" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 072f3b66-eb27-48d8-ae14-e81eb63275f5)
+      (tstamp f75a258f-dc63-4faf-a16a-d394a43f554f)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 7371a3fe-1a23-4274-91be-9295b9d79453)
+      (tstamp 07adfd6b-69cb-4048-9fc3-f6fd646318e4)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 7e51987d-b16d-4bff-bebd-5a90dcc6774c))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 74dd862b-dce0-4c5e-815b-aee9bed98940))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2890,14 +3056,14 @@
     (attr smd)
     (fp_text reference "D38" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp b80802b7-17e6-404a-8f9a-0e72f6d47ee1)
+      (tstamp 50db73a2-ea8d-4833-924b-651390537e1f)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp d2954bf4-0158-4c98-b96f-8bc2989c1d1a)
+      (tstamp f6fb2115-88d6-46c0-a227-e40faa3da20b)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp ffef3b11-8a9c-4b4b-9272-8897724d6b18))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp a74f4acd-6f4d-41af-a4f9-074a9f205b5c))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2914,14 +3080,14 @@
     (attr smd)
     (fp_text reference "D32" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp ec605b72-0679-46b7-8d4a-48ee62cffaee)
+      (tstamp c81eb4de-e415-4c40-ad42-6623a2abaf16)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 4902da9f-7b68-4da6-9e5c-4b500202ed49)
+      (tstamp 94258258-b9fe-48dc-877f-a39442be41fa)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 1f5ea531-e2f5-4314-b29a-1d6d29cfc19a))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 39e9bf9a-245d-41cf-b4d1-dad362aa88c5))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2938,14 +3104,14 @@
     (attr smd)
     (fp_text reference "D11" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 744b528b-8cdb-4f09-9d4b-95dca7b5ba5d)
+      (tstamp f151b684-dfea-406e-b23e-98aa41fd8e7a)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 17b5c996-34f1-42e4-b2a9-0a541d52746a)
+      (tstamp 2e231901-2f0c-4911-a1cf-d5b6155bf347)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp ba702665-b785-4155-a29b-2e58f6848417))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 8fe0fbfa-a0e8-4141-86c0-bca4b944ab28))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2962,14 +3128,14 @@
     (attr smd)
     (fp_text reference "D19" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp c55c2a08-2305-4e47-b1db-5ddf9ae74d62)
+      (tstamp e23ad510-75b3-4cc2-8465-cef97da618a6)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp b54d2642-86e4-4253-ab1b-6f8a6a885155)
+      (tstamp 41cacf21-4f20-4622-b0ed-69fa8d9720f0)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp e93305a0-0520-44f9-ae72-2877b4f9c9cc))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp a61bc480-4fbd-4141-8f4e-3d3f2e6c7dc4))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -2986,14 +3152,14 @@
     (attr smd)
     (fp_text reference "D27" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 12048145-3c13-46cd-8dfe-28ccd52b718c)
+      (tstamp e517e093-1acc-4838-a640-22fae11a1f1e)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 693d6233-d490-49d4-8216-4d591eeb8981)
+      (tstamp 64ccf82d-7056-48db-88d1-ed353bc48fe6)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 4228171d-7c9c-4e35-aebc-abf6acfd212e))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 5c6e3446-4af5-4f15-91eb-a4d75fb1b7fb))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -3010,14 +3176,14 @@
     (attr smd)
     (fp_text reference "D17" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 213ac332-b063-48f8-b254-14b12219ef41)
+      (tstamp 56d0ab88-e21b-4063-8843-64836df792f7)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp b7d822fc-1603-4d7a-9d63-b3cb89263412)
+      (tstamp 85a5bfe3-147f-445e-80a0-127219da6455)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 94c6cdd5-314c-4377-a4d7-6cb83d112570))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 9234d393-a00f-4ff5-b634-65e371d78d0f))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -3034,14 +3200,14 @@
     (attr smd)
     (fp_text reference "D45" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 70bbaf01-aa56-448d-a2af-c89db0744ac3)
+      (tstamp 9e61edee-83d1-4714-91c3-6d53ad85b328)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp dc254e5b-c192-4a9d-9d2e-338ed486dd53)
+      (tstamp 75163ac1-ab15-4ebb-a133-c6cd7f5af1d1)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp d2dfeb2d-285d-4e42-bfdf-38f427c11fb1))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp fe230555-896c-4466-89af-68ad6f452af2))
   )
 
   (footprint "foam:foam-cutout-diode" (layer "B.Cu")
@@ -3058,14 +3224,14 @@
     (attr smd)
     (fp_text reference "D60" (at 0.05 0.525 180 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp 256f291b-2563-4be6-bc18-61ca95007f3a)
+      (tstamp 9023c741-f4a1-4a67-a59a-7522617b8945)
     )
     (fp_text value "1N4148W" (at 0.05 -0.975 180 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 8daee818-6245-44e8-90f6-ac3f7d45dc0b)
+      (tstamp 8d1823b2-4c93-4746-b4c9-641f3fbedcdc)
     )
     (fp_rect (start -2.25 1.05) (end 2.25 -1.05)
-      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp ee2e9243-6658-47ab-8f27-3325b0f99889))
+      (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp ff3335fd-beee-4e21-9d1d-fb160eac4d67))
   )
 
   (gr_line (start 22.5 39.5) (end 374.5 39.5)
