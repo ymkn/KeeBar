@@ -1264,7 +1264,7 @@
 
   (footprint "KeeBar-footprints:SW_JointHole_Omnispacebar" (layer "F.Cu")
     (tstamp 70132284-945a-4410-b934-57671a09b39c)
-    (at 190.56875 113.31875)
+    (at 190.5 114.3)
     (attr through_hole)
     (fp_text reference "Omnispacebar" (at 0 -0.79 unlocked) (layer "F.SilkS")
         (effects (font (size 1 1) (thickness 0.1)))
