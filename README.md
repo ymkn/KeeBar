@@ -1,4 +1,4 @@
-# KeeBar
+# KeeBar S
 
 A 40%-sized, horizontally elongated with centerized numkeys mechanical keyboard.
 
@@ -10,7 +10,9 @@ A 40%-sized, horizontally elongated with centerized numkeys mechanical keyboard.
 
 You can also customize the layout using [Vial](https://get.vial.today/).
 
-OSのハードウェアキーボードレイアウト設定が日本語キーボード「（106/109キー）」に設定されている場合は、[default_layout_jp.vil](firmware/QMK/default_layout_jp.vil)ファイルをロードするといい感じになります。
+## Build Guide
+
+See [Build Guide](doc/buildguide_s.md).
 
 ## License
 
