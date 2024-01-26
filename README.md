@@ -1,6 +1,6 @@
-# KeeBar
+# KeeBar S
 
-A extended 40% mechanical keyboard PCB, plate and case.
+A 40%-sized, horizontally elongated with centerized numkeys mechanical keyboard.
 
 ![KeeBar real image](image/keebar-real.jpg)
 
@@ -10,8 +10,12 @@ A extended 40% mechanical keyboard PCB, plate and case.
 
 You can also customize the layout using [Vial](https://get.vial.today/).
 
-OSのハードウェアキーボードレイアウト設定が日本語キーボード「（106/109キー）」に設定されている場合は、[default_layout_jp.vil](firmware/QMK/default_layout_jp.vil)ファイルをロードするといい感じになります。
+## Build Guide
+
+See [Build Guide](doc/buildguide_s.md).
 
 ## License
 
 This project is licensed under the MIT License, see the [LICENSE file](LICENSE) for details.
+
+However, this does not apply to logo data (image files, KiCAD footprints, etc.) included in the resources of this project. Please contact us for secondary use.
